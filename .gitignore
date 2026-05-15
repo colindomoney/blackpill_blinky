@@ -1,2 +1,6 @@
 .vscode
 build*
+Debug/
+.claude/
+.osx.project
+.claude/settings.local.json
